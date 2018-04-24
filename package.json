@@ -20,8 +20,8 @@
     "gulp": "gulp"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/github/developer.github.com.git"
+    "type": "git",
+    "url": "https://github.com/github/developer.github.com.git"
   },
   "engines": {
     "node": ">= 4.0.0"
